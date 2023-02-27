@@ -1,6 +1,6 @@
 # I Want Boost
 
-A website for Dota2 boosting.
+A website for Dota2 boosting
 
 ## Design
 
