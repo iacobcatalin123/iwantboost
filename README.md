@@ -17,6 +17,6 @@ Become a Booster page, with a captcha in order to not get spammed (this is tied 
 
 ### Details
 
->Technologies
+> Technologies
 >* React
 >* Node
